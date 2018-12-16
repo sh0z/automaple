@@ -1,0 +1,8 @@
+[+] UI form for script activation.
+[+] Detailed Script Information (.json).
+[+] Script compiling function.
+[+] Trusted Certificate Support for registered developers.
+    [+] Using Asymmetric Cryptography (RSA-1024)
+[+] Small changes on automaple loader.
+[+] Small bugs fixed.
+[-] F1 removed, no longer necessary.
